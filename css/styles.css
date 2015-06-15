@@ -25,7 +25,9 @@
 *{
     margin: auto;
 }
-
+a#link{
+	color:blue;
+}
 a {
 color:white;
 }
