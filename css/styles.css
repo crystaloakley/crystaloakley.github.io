@@ -6,7 +6,9 @@
 	text-align: center;
 }
 
-
+#bar {
+	padding: 13px 15px;
+}
 .modal-backdrop {
     z-index: 1020;
 }
